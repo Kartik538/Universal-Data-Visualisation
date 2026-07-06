@@ -56,7 +56,7 @@ Universal-Data-Visualizer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Universal-Data-Visualizer.git
+git clone https://github.com/Kartik538/Universal-Data-Visualizer.git
 ```
 
 Navigate to the project folder:
@@ -120,9 +120,9 @@ Add screenshots of your dashboard inside the `screenshots` folder and include th
 
 ## 👨‍💻 Author
 
-**Neel Gupta**
+**Kartik Gupta**
 
-BCA Student | Python Developer | Data Analytics Enthusiast
+B.Tech Student | Python Developer | Data Analytics Enthusiast
 
 ---
 
